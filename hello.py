@@ -1,3 +1,5 @@
-print("Welcome to Python Programming")
-print("This is my first program in Python")
+name = "Vighnesh"
+age = 21
+Work = "ASHIKA"
 
+print(f"Hello I am {name} and I am {age} years old and I worked in {Work}")
